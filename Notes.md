@@ -33,7 +33,9 @@ Different types
 
 ## The war
 
+#### Conditions
 
+not great
 
 
 
