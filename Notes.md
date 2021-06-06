@@ -11,25 +11,37 @@
 
 **Needs nickname from soldiers**
 
-Different types
+### 2 parts of army, physical ​(:muscle:) & energy (:rainbow_flag:)​
 
-1. Regular
+
+1. Regular :muscle:
    1. Guns hidden everywhere
    2. Hatches open to reveal guns
    3. Couple energy weapons
-2. Heavy-Launch
-   1. Designed to dig into the ground to stabilize
-   2. Extra et of arms to do things after the body has set itself into the ground
-   3. Acceleration cannon on its back
-      1. Has adjustable angle
-      2. Launches heavy spheres
-3. Medical 
+3. Medical :muscle:
    1. Magazine like storage for medical equipment
       1. stored on back
       2. backpack can swing around to front for easy access
    2. Generally large
    3. Fake human hands
       1. warmth
+4. Bow arms :muscle:
+
+   1. Compound bow
+5. Sword arms :muscle:
+
+   1. Expands from outside forearms
+   2. at least one blade on each arm
+
+4. Heavy-Launch :rainbow_flag:
+   1. Designed to dig into the ground to stabilize
+   2. Extra et of arms to do things after the body has set itself into the ground
+   3. Acceleration cannon on its back
+      1. Has adjustable angle
+      2. Launches heavy spheres
+5. Iron man arc hands :rainbow_flag:
+   1. Fires from hands
+   2. Used for flight?
 
 ## The war
 
