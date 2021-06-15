@@ -1,6 +1,6 @@
 # Basics for language
 
-| n/a                 | Bilabial | Labiodental | Dental / Alveolar / Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
+|                     | Bilabial | Labiodental | Dental / Alveolar / Postalveolar | Retroflex | Palatal | Velar | Uvular | Pharyngeal | Glottal |
 | ------------------- | -------- | ----------- | -------------------------------- | --------- | ------- | ----- | ------ | ---------- | ------- |
 | Plosive             | p b      |             | t d                              |           |         |       |        |            |         |
 | Nasal               | m        |             | n                                |           |         |    ŋ  |        |            |         |
