@@ -43,6 +43,20 @@
    1. Fires from hands
    2. Used for flight?
 
+### John (One For All)
+
+John is a conglomeration of parts of other robots, created by a group of fighters who aren't part of the three families.
+
+John incorporates weapons and tools from other robots that have been repurposed.
+
+the entire body is made up by all of these weapons (ie: only a small processing core in the middle to give it consciousness). the entire body has several appendages that rotate around a central structure.
+
+A similar thing goes for the head, it is made up of 3 different types of lens':
+
+1. Wide angle lens (camera that John usually uses(suburb resolution and framerate))
+2. Telephoto lens (used for looking long distances (duh))
+3. Infrared camera (used in the dark, or when looking for hiding enemies)
+
 ## The war
 
 ### Conditions
